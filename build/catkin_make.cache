@@ -1,0 +1,2 @@
+mypackage
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/zhongyu/Catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zhongyu/Catkin_ws/install -G Unix Makefiles
